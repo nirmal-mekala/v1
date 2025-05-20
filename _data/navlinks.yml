@@ -1,5 +1,5 @@
 - text: Home
-  url: /
+  url: ./
 
 - text: Writing
-  url: /dev/
+  url: ./dev/
