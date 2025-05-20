@@ -46,7 +46,7 @@ layout: default
         <div class="projects__card projects__hidden">
         {% endif %}
             <div class="projects__image">
-                <img src="{{project.src}}" alt="{{project.alt}}" onclick="location.href='https://ndmekala.github.io/{{project.repo}}'">
+                <img src="{{project.src}}" alt="{{project.alt}}" onclick="location.href='https://nirmal-mekala.github.io/{{project.repo}}'">
             </div>
             <div class="projects__text">
                 <div class="projects__title">
@@ -64,14 +64,13 @@ layout: default
                     {{project.description | markdownify}}
                 </div>
                 <div class="projects__links">
-                    <a href="https://ndmekala.github.io/{{project.repo}}"><button>Preview</button></a>
-                    <a href="https://www.github.com/ndmekala/{{project.repo}}"><button>Repository</button></a>
+                    <a href="https://nirmal-mekala.github.io/{{project.repo}}"><button>Preview</button></a>
+                    <a href="https://www.github.com/nirmal-mekala/{{project.repo}}"><button>Repository</button></a>
                 </div>
             </div>
         </div>
     {% endfor %}
     <button class="projects__showall">View More</button>
-    </a>
     </div>    
 </section>
 <!--
