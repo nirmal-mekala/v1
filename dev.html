@@ -6,6 +6,6 @@ permalink: /dev/
 <h1>All Posts</h1>
 {% for post in site.posts %}
 <p class="post__blurb-date">{{post.date | date_to_long_string}}</p>
-<h2 class="post__blurb-title"><a href="/v1/{{post.url}}">{{post.title}}</a></h2>
+<h2 class="post__blurb-title"><a href="/v1{{post.url}}">{{post.title}}</a></h2>
 <p class="post__blurb-copy">{{ post.content | strip_html | truncatewords: 50 }}</p>
 {% endfor %}
