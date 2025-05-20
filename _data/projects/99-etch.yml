@@ -1,5 +1,5 @@
 repo: etch-a-sketch
-src: ../assets/images/etch.gif
+src: /etch.gif
 alt: Pixel Draw app preview
 title: Pixel Draw
 technologies: [JS, HTML5, CSS3]

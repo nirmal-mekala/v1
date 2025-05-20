@@ -1,5 +1,5 @@
 repo: memory
-src: ../assets/images/memory.gif
+src: /memory.gif
 alt: Queen’s Gambit Memory Game app preview
 title: Queen’s Gambit Memory Game
 technologies: [React.js, CSS3]

@@ -1,5 +1,5 @@
 repo: calculator
-src: ../assets/images/calc.gif
+src: /calc.gif
 alt: Responsive Calculator app preview
 title: Responsive Calculator
 technologies: [JS, HTML5, CSS3]

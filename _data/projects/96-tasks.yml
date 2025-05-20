@@ -1,5 +1,5 @@
 repo: todo
-src: ../assets/images/tasks.gif
+src: /tasks.gif
 alt: Tasks app preview
 title: Tasks
 technologies: [JS, HTML, CSS3]

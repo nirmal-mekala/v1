@@ -1,5 +1,5 @@
 repo: v1
-src: ../assets/images/personal.gif
+src: /personal.gif
 alt: Portfolio preview
 title: Portfolio Site
 technologies: [HTML5, Sass]

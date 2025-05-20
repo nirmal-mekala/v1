@@ -1,5 +1,5 @@
 repo: weather
-src: ../assets/images/weather.gif
+src: /weather.gif
 alt: OpenWeather App preview
 title: OpenWeather App
 technologies: [JS, HTML5, CSS3]

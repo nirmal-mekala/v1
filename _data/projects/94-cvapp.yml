@@ -1,5 +1,5 @@
 repo: cvapp
-src: ../assets/images/cv.gif
+src: /cv.gif
 alt: CV App preview
 title: CV App
 technologies: [React.js]

@@ -1,5 +1,5 @@
 repo: shopping-cart-2
-src: ../assets/images/cart.gif
+src: /cart.gif
 alt: Shopping Cart app preview
 title: Shopping Cart
 technologies: [React.js, Node.js]
